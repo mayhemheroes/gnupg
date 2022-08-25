@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_decrypt
+cmds:
+- cmd: /out/fuzz_decrypt
