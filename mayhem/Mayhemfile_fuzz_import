@@ -1,0 +1,4 @@
+project: gnupg
+target: fuzz_import
+cmds:
+  - cmd: /mayhem/fuzz_import

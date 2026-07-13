@@ -1,0 +1,4 @@
+project: gnupg
+target: fuzz_list
+cmds:
+  - cmd: /mayhem/fuzz_list

@@ -1,0 +1,4 @@
+project: gnupg
+target: fuzz_verify
+cmds:
+  - cmd: /mayhem/fuzz_verify
